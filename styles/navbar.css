@@ -15,3 +15,8 @@
     border-block: 5px;
     box-shadow: #34495e 0px 0px 5px 1px;
 }
+
+#insta:hover{
+	color: red;
+    transition: 0.5s;
+}

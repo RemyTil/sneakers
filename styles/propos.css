@@ -9,7 +9,7 @@ h1 {
     text-align: center;
  }
 
- #link :hover {
+ #link:hover {
     color: white;
     transition: 0.5s;
 }
