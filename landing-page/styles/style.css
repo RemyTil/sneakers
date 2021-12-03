@@ -1,0 +1,31 @@
+@import url(banner.css);
+@import url(button.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url(desc.css);
+@import url(navbar.css);
+
+body {
+	background-color: #ECF0F1;
+}
+a {
+	text-decoration: none;
+}
+
+h1	{
+    color: floralwhite;
+    background-color: #000000de;
+    width: 420px;
+    text-align: center;
+    border-radius: 80px;
+}
+
+h2	{
+	text-align: center;
+    background: #e44040;
+    width: 312px;
+    border-radius: 8px;
+    margin: 30px auto;
+    box-shadow: #34495e 0px 0px 5px 1px;
+}
+

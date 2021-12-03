@@ -1,0 +1,17 @@
+.nav-list {
+	list-style: none;
+}
+
+.nav-item {
+	display: inline;
+}
+
+.navbar {
+	text-align: right;
+}
+
+.navbar {
+	background-color: #db0000bf;
+    border-block: 5px;
+    box-shadow: #34495e 0px 0px 5px 1px;
+}
