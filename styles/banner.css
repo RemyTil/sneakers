@@ -1,0 +1,11 @@
+.banner {
+	color: white;
+	height: 45vh;
+	margin: 0;
+	background-size: cover;
+	background-position: center;
+	background-image: linear-gradient(90deg, rgba(2,0,36,0.5984768907563025) 0%, rgba(9,9,121,0.49763655462184875) 42%, rgba(38,154,177,0.304359243697479) 100%), url("../images/snk.jpeg");
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
